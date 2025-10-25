@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-  float firstNumber;
+  float firstNumber,x;
   float secondNumber;
 
   // Solicitar al usuario que introduzca el primer número.
@@ -21,8 +21,9 @@ int main() {
        << "Los números son " << firstNumber << " y " << secondNumber << endl;
 
   // Ahora intercambiaremos los valores.
+  x = firstNumber;
   firstNumber = secondNumber;
-  secondNumber = firstNumber;
+  secondNumber = x;
 
   // Salida de los valores después del intercambio.
   cout << "Ahora, los números son " << firstNumber << " y " << secondNumber

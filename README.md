@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Rafael Domínguez Jiménez 
+- Matrícula: s250181109
+- Fecha: 24/10/2025
 
 ## 🎯 Objetivos
 

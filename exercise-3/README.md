@@ -10,4 +10,5 @@
 
 ## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+![alt text](image.png)
+![alt text](image-1.png)
